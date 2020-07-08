@@ -1,0 +1,47 @@
+.image>img{
+  position:relative;
+  opacity:0.6;
+}
+.image>a{
+  font-size: 24px;
+  text-decoration: none;
+  position:absolute;
+  color:black;
+  margin-top: 5px; margin-left: 600px;
+  text-shadow: 2px 2px 2px gray;
+}
+h1{
+  text-align:center;
+  color:red;
+}
+p{
+  text-align:center;
+}
+emp{
+  color:brown;
+}
+h2{
+  margin-left:11em;
+}
+.center{
+  margin-left:16em;
+  margin-right:15em;
+  line-height:150%;
+}
+.ul{
+  margin-left:15em;
+  margin-right:15em;
+}
+a{
+  color:red;
+  text-decoration:none;
+}
+a:hover{
+  text-decoration:underline;
+}
+.con{
+  width: 300px;
+  white-space: normal;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}

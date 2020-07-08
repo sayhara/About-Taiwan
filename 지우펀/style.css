@@ -1,0 +1,67 @@
+@media screen and (max-width:767px){
+  .image>a{color:blue;}
+}
+
+.image>img{
+  position:relative;
+  opacity:0.6;
+}
+.image>a{
+  font-size: 24px;
+  text-decoration: none;
+  position:absolute;
+  color:black;
+  margin-top: 5px; margin-left: 600px;
+  text-shadow: 2px 2px 2px gray;
+}
+/* 이미지 위에 있는 글자를 설정할때는 부모를 상대위치 자식을 절대위치로 설정
+   이부분에서는 수정을 했기에 딱히 필요하진 않았음 */
+h1{
+  text-align:center;
+  color:red;
+}
+p{
+  margin-left:18em;
+  margin-right:18em;
+  line-height:150%;
+}
+/* left, right를 통해 본문의 크기를 설정할 수 있다. */
+h3{
+  text-align: center;
+}
+img{
+  margin:0 auto;
+  align:center;
+}
+.loc>a{
+  margin-left:40em;
+  color:red;
+}
+name{
+  color:red;
+  font-family: inherit;
+  margin-left: 18em;
+
+}
+i{
+  font-size:12px;
+  margin-left:50em;
+}
+ro{
+  font-size:20px;
+  margin-left: 15em;
+}
+a{
+  text-decoration:none;
+}
+a:hover{
+  text-decoration:underline;
+}
+.tag>a{
+  color : skyblue;
+  margin-left: 18em;
+}
+jo{
+  font-size:15px;
+  margin-left: 20em;
+}
