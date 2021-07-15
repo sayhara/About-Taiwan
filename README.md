@@ -18,6 +18,6 @@
 
 제이쿼리 시간함수를 통해 배경화면이 시간에 따라 변합니다.
 
-![image](https://user-images.githubusercontent.com/51408349/125722591-8537abf5-79ba-4cbd-a847-69b57d925684.png)
+![image](https://user-images.githubusercontent.com/51408349/125723407-985b77d2-0041-4d8e-8daa-501e93795ad5.png)
 
-메뉴바를 클릭하면, 대만의 주요도시들을 살펴볼 수 있습니다.
+메뉴바를 클릭하면, 대만의 주요 관광명소들을 살펴볼 수 있습니다.
